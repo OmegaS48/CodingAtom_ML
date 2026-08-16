@@ -309,7 +309,7 @@ criterion = nn.CrossEntropyLoss()
 
 The current configuration trains for:
 
-12 epochs
+10 and 100 epochs
 Batch size: 1024
 Learning rate: 0.001
 
